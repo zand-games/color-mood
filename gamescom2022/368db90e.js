@@ -123,12 +123,12 @@ var st,it;null==et||et(W,Z),(null!==(w=globalThis.litHtmlVersions)&&void 0!==w?w
               <h1 id="register">Color Mood</h1>
               <div class="all-steps" id="all-steps">
                 <!-- Steps -->
-                <birthday-step icon="fa-brain"></birthday-step>
+                <!-- <birthday-step icon="fa-brain"></birthday-step>
                 <birthday-step icon="fa-solid fa-heart"></birthday-step>
                 <birthday-step icon="fa-solid fa-shapes"></birthday-step>
                 <birthday-step
                   icon="fa-solid fa-child-reaching"
-                ></birthday-step>
+                ></birthday-step> -->
               </div>
               <!-- Navigation  -->
               <div style="overflow:auto;margin-bottom:20px" id="nextprevious">
